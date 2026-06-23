@@ -1,0 +1,4 @@
+grid,mean_abs_deltaPk_filtered,std_abs_deltaPk_filtered,mean_abs_local_cfc_correction,std_abs_local_cfc_correction,mean_cfc_correction_std,std_cfc_correction_std,mean_n_voids,std_n_voids
+128,9.9e-05,1.3e-05,7.5e-05,9.1e-06,5.7e-05,2.0e-06,129.5,4.95
+256,2.48e-04,1.01e-04,9.4e-05,9.5e-07,1.27e-04,5.0e-06,251.0,8.49
+512,1.075e-03,1.25e-04,9.0e-05,1.3e-05,3.46e-04,1.3e-05,309.5,13.44
