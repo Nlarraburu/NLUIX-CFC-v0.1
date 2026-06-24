@@ -1,0 +1,4 @@
+observable,power_law_slope,log10_intercept
+mean_abs_local_cfc_correction,1.0000000000000007,-1.8530180602414525
+mean_abs_deltaPk_filtered,1.0217284221760068,-0.7350884743992928
+cfc_correction_std,1.0,-1.2667359637926987
